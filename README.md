@@ -25,6 +25,6 @@ We have Performed EDA on the supply chain dataset to find out the missing values
 
 
 
-Created a Tableau Dashboard
+
 
 
