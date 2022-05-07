@@ -13,6 +13,7 @@ Used pandas to separate the dataset into seven different csv's.
 
 Build an ER model with the data 
 
+![image](https://user-images.githubusercontent.com/29980464/167240409-9a015905-2924-429a-a5b5-ed687993b070.png)
 
 
 
