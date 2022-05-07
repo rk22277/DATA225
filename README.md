@@ -24,6 +24,64 @@ Done some basic visualization using python:
 ![image](https://user-images.githubusercontent.com/29980464/167240561-faa6b219-ab99-4d10-aa8d-166514124c37.png)
 
 
+Used Bigquery to run som analytical queries:
+
+1.Highest Sales by the Order Region
+
+
+
+
+
+
+2.Top5 products in 2018 by sales
+
+
+
+3.Most profitable products over the years
+
+
+
+
+
+
+
+4.Number of orders cancelled by the years
+
+ 
+
+5.Region wise orders for the year 2018
+
+
+
+6.Underperforming categories 2018
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+7. Average number of shipping days
+
+
+
+
+8.Best performing categories in 2018
+
+
+
+9.Top 5 purchasing customers in 2018
+
+
+
+
+
+
 
 
 
