@@ -9,11 +9,21 @@ Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SU
 
 We have Performed EDA on the supply chain dataset to find out the missing values and drop the columns.
 
+![image](https://user-images.githubusercontent.com/29980464/167240409-9a015905-2924-429a-a5b5-ed687993b070.png)
+
 Used pandas to separate the dataset into seven different csv's.
 
-Build an ER model with the data 
+Build an ER model with the data.
+![image](https://user-images.githubusercontent.com/29980464/167240457-d052badd-6c02-41d0-9c65-34c9a265decb.png)
 
-![image](https://user-images.githubusercontent.com/29980464/167240409-9a015905-2924-429a-a5b5-ed687993b070.png)
+Done some basic visualization using python:
+
+![image](https://user-images.githubusercontent.com/29980464/167240489-ddaed602-5598-4ab9-a1f1-11c1d47b5905.png)
+![image](https://user-images.githubusercontent.com/29980464/167240497-a11998c3-e76f-4320-bd54-2a70ccdaf615.png)
+![image](https://user-images.githubusercontent.com/29980464/167240532-b7d2bfc2-8798-45d1-8ac0-f0786cb7a667.png)
+![image](https://user-images.githubusercontent.com/29980464/167240561-faa6b219-ab99-4d10-aa8d-166514124c37.png)
+
+
 
 
 
