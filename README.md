@@ -92,6 +92,13 @@ Used Bigquery to run some analytical queries:
 
 
 
+Leveraged Tableau to make an intuitive dashboard
+
+![image](https://user-images.githubusercontent.com/29980464/168871992-c8540a46-7b13-467b-a9bd-8e94406aebac.png)
+
+
+
+
 
 
 
