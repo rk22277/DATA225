@@ -24,59 +24,53 @@ Done some basic visualization using python:
 ![image](https://user-images.githubusercontent.com/29980464/167240561-faa6b219-ab99-4d10-aa8d-166514124c37.png)
 
 
-Used Bigquery to run som analytical queries:
+Used Bigquery to run some analytical queries:
 
 1.Highest Sales by the Order Region
-
-
-
+![image](https://user-images.githubusercontent.com/29980464/168871117-104eac65-f60e-488b-a4bd-9301996732e4.png)
 
 
 
 2.Top5 products in 2018 by sales
+![image](https://user-images.githubusercontent.com/29980464/168871183-47b2740c-620b-4242-babb-f5931f8b7fb0.png)
 
 
 
 3.Most profitable products over the years
 
-
-
-
+![image](https://user-images.githubusercontent.com/29980464/168871211-177c676d-ba67-4a29-8def-29c4f67ec2fc.png)
 
 
 
 4.Number of orders cancelled by the years
+![image](https://user-images.githubusercontent.com/29980464/168871268-155ecda6-3699-49cf-95a5-054a64c0b89e.png)
 
  
 
 5.Region wise orders for the year 2018
+![image](https://user-images.githubusercontent.com/29980464/168871344-87198e04-61ca-4b92-9390-8072baf9aa9d.png)
 
 
 
 6.Underperforming categories 2018
 
- 
-
- 
+ ![image](https://user-images.githubusercontent.com/29980464/168871385-a3b02f24-10a5-44af-a4e7-a940c6f25cde.png)
 
 
-
-
-
-
-
-
-7. Average number of shipping days
+7.Average number of shipping days
+![image](https://user-images.githubusercontent.com/29980464/168871429-39c40f01-7c44-42f3-bd2d-47b0a49fcae2.png)
 
 
 
 
 8.Best performing categories in 2018
+![image](https://user-images.githubusercontent.com/29980464/168871470-fa051252-e5ae-4797-ae1a-a9bd0e9f75c8.png)
 
 
 
 9.Top 5 purchasing customers in 2018
 
+![image](https://user-images.githubusercontent.com/29980464/168871535-48b42611-5a60-45be-aea2-88e0b3cb0c21.png)
 
 
 
